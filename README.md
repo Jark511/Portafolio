@@ -20,6 +20,7 @@ Oct. 2023 - Oct. 2024
 -	Administre personal de auditores y residentes en VW México, Tesla y FCA.
 -	Tengo conocimiento en operación de máquina de rayos X para pruebas de porosidad en piezas de inyección.
 -	Tengo conocimiento en operación microscopio digital para pruebas de fracturas por porosidad en piezas de inyección.
+-	
 **Ingeniero de Calidad @ FORVIA 
 Mar. 2022 - Sept. 2023 
 -	Responsable las líneas de ensamble de puertas VW TAOS, VW 371, Nissan X-Trail, Volvo N431 y refacciones VW.
@@ -30,7 +31,7 @@ Mar. 2022 - Sept. 2023
 -	Realice Pruebas de recalificación para VW, Volvo y Nissan.
 -	Realice seguimiento a reclamaciones de proveedores internos y externos.
 -	Administre personal de auditores y residentes en VW México, Nissan México y Volvo Charleston, South Carolina y Kontaine.
-________________________________________
+
 **Ingeniero de Calidad @ SA Automotive 
 Nov. 2018 - Nov. 2022 
 -	Realice la puesta en marcha y lanzamiento exitoso de las líneas de producción de ONIX según los requisitos del cliente, la calidad y APQP.
@@ -41,7 +42,7 @@ Nov. 2018 - Nov. 2022
 -	Desarrolle nuevos proveedores para la plataforma de GM.
 -	Gane el “Premio a la excelencia en la calidad del proveedor 2020”, “Calidad sobresaliente FCA 2019-2021
 “Supplier Excellence Award 2020 de General Motors” (GM), galardón que entrega la armadora a aquellos proveedores comprometidos con la excelencia en la calidad de sus productos.
-________________________________________
+
  **Moderador de AMEF @ Kiekert de Mexico 
  May. 2014 - Nov. 2018 
 -	Realice el lanzamiento del proyecto BMW / DAIMLER GL2 a México fue traído con éxito desde la República Checa.
