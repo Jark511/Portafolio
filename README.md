@@ -54,7 +54,7 @@ Nov. 2018 - Nov. 2022
 
 ## Proyectos
 ### Urban.Routes
-[Repositorio](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Jark511/qa-project-Urban-Routes-es)
+[Repositorio](https://github.com/Jark511/qa-project-Urban-Routes-es)
 
 -	Urban Routes es una aplicación diseñada para solicitar servicios de taxi con características adicionales, como la selección de tarifas, y la solicitud de artículos adicionales como mantas, pañuelos y helados.
 -	Este proyecto automatiza las pruebas para la creación de kits de productos usando una lista de comprobación definida. Se envían solicitudes a una API y se verifican los resultados esperados.
